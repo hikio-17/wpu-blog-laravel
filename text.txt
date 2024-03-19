@@ -1,0 +1,6 @@
+Post::create([
+   'title' => 'Judul Artikel 4',
+   'slug' => 'judul-artikel-1',
+   'excerpt' => 'isi dari excerpt',
+   'body' => 'Isi Dari body artikel 4'
+])
